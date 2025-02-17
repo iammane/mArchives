@@ -1,6 +1,6 @@
 # Rolling your own WordPress instance - Live Blog
 
-## Author: complex robot
+## Author: Matt Nemeth (formerly attributed to _complex robot_, however, I am the original author)
 ## March 29th, 2023 through April 7th, 2023
 
 ## Introduction
