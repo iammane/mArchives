@@ -1,6 +1,6 @@
 # Create a serverless contact form (a case study in not re-inventing the wheel) - Part 1
 
-## Author: complex robot
+## Author: Matt Nemeth (formerly credited to complex robot, you'll see artifacts below as such)
 ## March 11th, 2023
 
 ## Introduction
