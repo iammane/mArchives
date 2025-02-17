@@ -1,6 +1,6 @@
 # Serving a static site from an S3 bucket
 
-## Author: complex robot
+## Author: Matt Nemeth (formerly attributed to _complex robot_ which is being turned down, I am the original author)
 ## February 13th, 2023
 
 ## Introduction
