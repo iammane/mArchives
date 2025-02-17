@@ -1,6 +1,6 @@
 # Front your S3 website with CloudFront
 
-## Author: complex robot
+## Author: Matt Nemeth (formerly attributed to _complex robot_, which is all being turned down. I am the original author)
 ## February 13th, 2023
 
 ## Introduction
