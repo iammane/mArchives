@@ -1,6 +1,6 @@
 # Create a serverless contact form (a case study in not re-inventing the wheel) - Part 2
 
-## Author: complex robot
+## Author: Matt Nemeth (formerly credited to complex robot when this was still around)
 ## March 3rd, 2024
 
 ## Introduction
@@ -26,3 +26,5 @@ The free version of this does have some limitations, mainly in how many submissi
 Thanks for reading!
 
 March 3rd, 2024
+
+*Addendum note* February 17th, 2025 - It's important to note that with the free version of Web3 Forms at least it doesn't appear you can revoke the key. So I'm in the process of dismantling all things _complex robot_ and now until.. forever.. or until Web3 Forms cleans up, or goes out of business or something, people can use my public access key to send emails from ANYTHING to complexrobotworks[at]gmail.com. Thankfully, I won't be checking it once this is all done... but still. So much for a nice cleanup. 🤷‍♂️
