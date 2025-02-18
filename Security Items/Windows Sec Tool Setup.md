@@ -2,7 +2,7 @@
 
 ## Intro
 
-Putting this together to highlight setting up a Windows machine to be used for ethical hacking / penetration testing **without** needing to install a VM in software such as Virtual Box or VMware.
+Putting this together to highlight setting up a Windows machine to be used for ethical hacking / penetration testing **without** needing to install a VM in software such as VirtualBox or VMware.
 
 The main justification for something like this is primarily speed and ease of use. There are tradeoffs though and anything that needs to be pointed out will be. This serves as a personal guide more than anything else but please feel free to use or suggest improvements!
 
