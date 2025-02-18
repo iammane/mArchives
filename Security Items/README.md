@@ -1,1 +1,5 @@
-Here you will find various security documents / guides pertaining to various tech!
+🔒 Security Things 🔒
+
+Little projects, notes - anything related to security centric topics (where the other items are more sysadmin/dev type).
+----------
+
